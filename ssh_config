@@ -1,0 +1,9 @@
+host gutsman
+        user b0wter
+        hostname gutsman.de
+        port 2222
+        identityfile ~/.ssh/id_default
+
+host vs-ssh.visualstudio.com
+	hostname vs-ssh.visualstudio.com
+	identityfile ~/.ssh/id_default
