@@ -12,7 +12,7 @@
 [profiles]
   [[default]]
     cursor_color = "#aaaaaa"
-    font = Fira Mono for Powerline 11
+    font = Fira Code weight=453 11
     scrollback_infinite = True
     scrollbar_position = hidden
     show_titlebar = False
