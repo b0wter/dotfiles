@@ -32,6 +32,8 @@ call plug#end()
 "set mouse=r
 set mouse=
 set number
+set noswapfile
+set ic
 
 " Airline
 let g:airline#extensions#tabline#enabled = 1
